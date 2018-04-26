@@ -7,7 +7,7 @@ elFinder
       _ ______ _           _           
      | |  ____(_)         | |          
   ___| | |__   _ _ __   __| | ___ _ __ 
- / _ \ |  __| | | '_ \ / _` |/ _ \ '__||
+ / _ \ |  __| | | '_ \ / _` |/ _ \ '__|
 |  __/ | |    | | | | | (_| |  __/ |   
  \___|_|_|    |_|_| |_|\__,_|\___|_|   
 </pre>
@@ -116,7 +116,7 @@ Installation
  1. Clone this repository to your PHP server
 
       ```
-      $ git clone https://github.com/Studio-42/elFinder.git
+      $ git clone https://github.com/ketovpavel/elFinder.git
       ```
 
  2. Rename `/php/connector.minimal.php-dist` to `/php/connector.minimal.php`
